@@ -2,6 +2,8 @@
 
 # 🚗 Uber Trip Analysis – Power BI Dashboard
 
+<img src="Retail Sales Dashboard.png" width=1000>
+
 ## 📄 Project Overview
 
 This project provides a comprehensive analysis of Uber trip data for the month of **June 2024** using **Power BI Desktop**. The dashboard highlights key performance metrics, booking trends, payment insights, vehicle type preferences, and location analytics to support business decisions and user behavior insights.
