@@ -70,5 +70,3 @@ This project provides a comprehensive analysis of Uber trip data for the month o
 - All values are aggregated based on trip-level granularity.
 
 ---
-
-Let me know if you want a downloadable version (Markdown or .txt), or if you’d like to include details like data sources or Power BI visuals used!
