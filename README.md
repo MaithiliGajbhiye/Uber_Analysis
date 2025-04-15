@@ -2,7 +2,7 @@
 
 # 🚗 Uber Trip Analysis – Power BI Dashboard
 
-<img src="Retail Sales Dashboard.png" width=1000>
+<img src="Uber_Dashboard.png" width=1000>
 
 ## 📄 Project Overview
 
